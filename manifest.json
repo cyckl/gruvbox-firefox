@@ -1,0 +1,42 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "name": "Gruvbox Dark Hard",
+    "theme": {
+        "colors": {
+            "tab_line": "#cc241d",
+            "tab_loading": "#cc241d",
+            "button_background_active": "#cc241d",
+
+            "toolbar_field_highlight": "#504945",
+            "toolbar_field_border_focus": "#504945",
+            "toolbar_field_border": "#504945",
+            "toolbar_field_separator": "#504945",
+            "toolbar_top_separator": "#504945",
+            "toolbar_vertical_separator": "#504945",
+            "toolbar_bottom_separator": "#504945",
+            "popup_highlight": "#504945",
+            "button_background_hover": "#504945",
+            "sidebar_border": "#504945",
+            "sidebar_highlight": "#504945",
+
+            "tab_background_text": "#928374",
+
+            "frame": "#1d2021",
+            "toolbar": "#1d2021",
+            "toolbar_field": "#1d2021",
+            "popup": "#1d2021",
+            "ntp_background": "#1d2021",
+            "icons_attention": "#1d2021",
+            "sidebar": "#1d2021",
+
+            "toolbar_field_text": "#ebdbb2",
+            "toolbar_field_highlight_text": "#ebdbb2",
+            "toolbar_field_text_focus": "#ebdbb2",
+            "popup_text": "#ebdbb2",
+            "ntp_text": "#ebdbb2",
+            "sidebar_text": "#ebdbb2",
+            "tab_text": "#ebdbb2"
+        }
+    }
+}

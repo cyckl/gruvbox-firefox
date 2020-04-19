@@ -1,2 +1,2 @@
-# gruvbox-firefox
- Gruvbox theme for Firefox
+# Gruvbox Dark Hard
+Gruvbox Dark theme for Firefox (hard contrast)
